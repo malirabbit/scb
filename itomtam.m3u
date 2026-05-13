@@ -357,10 +357,10 @@ http://91.208.115.25:80/play/live.php?mac=00:1B:79:D4:F2:C0&stream=1174232&exten
 
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png", AIS Play Sport 55
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-nba01_480/chunks.m3u8
+https://love.6e4uqvj2z2.workers.dev/lx-origin/th-nba01_480/chunks.m3u8
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png", AIS Play Sport 56
-https://love.uh6wzyncw9.workers.dev/lx-origin/th-nba02_480/chunks.m3u8
+https://love.6e4uqvj2z2.workers.dev/lx-origin/th-nba02_480/chunks.m3u8
 
 
 
