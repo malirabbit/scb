@@ -202,6 +202,20 @@ http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:23:7C&stream=1312002&exten
 http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:32:17&stream=1312002&extension=m3u8
 
 
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
+https://love.verowo7190.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
+https://love.verowo7190.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
+
+
+
 #EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 11 
 http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032487&extension=m3u8
 
