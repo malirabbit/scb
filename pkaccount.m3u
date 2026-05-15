@@ -1,7 +1,6 @@
 #EXTM3U 
 
 
-#Playlist URL=https://drive.google.com/uc?id=1V6wJorGJBK5iKYUSW4exnUCzxAbzZL8u
 
 #EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" ,CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -338,7 +337,16 @@ http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032526&extensio
 http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032526&extension=m3u8
 
 
-
+#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001366&extension=ts
+#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 1 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001365&extension=ts
+#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 2 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001364&extension=ts
+#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 3 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001363&extension=ts
+#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 4 FHD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001362&extension=ts
 
 
 
