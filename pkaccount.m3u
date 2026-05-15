@@ -208,12 +208,24 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
 
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
+https://dkl-1.shop/dookeela/monomax1/chunks.m3u8
+
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
+http://31.57.111.19:80/play/live.php?mac=00:1A:79:37:47:85&stream=1776175&extension=m3u8
+
+
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
 https://love.verowo7190.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
 https://love.verowo7190.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
 
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
+https://dkl-1.shop/dookeela/monomax2/chunks.m3u8
+
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
+http://31.57.111.19:80/play/live.php?mac=00:1A:79:37:47:85&stream=1776176&extension=m3u8
 
 
 #EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 11 
