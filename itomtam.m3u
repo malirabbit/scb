@@ -336,27 +336,31 @@ http://91.208.115.25:80/play/live.php?mac=00:1B:79:D4:F2:C0&stream=902070&extens
 
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 11 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:18:5F&stream=1174231&extension=ts
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:18:5F&stream=1174218&extension=ts
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 12 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:0D:87&stream=1174231&extension=ts
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:0D:87&stream=1174218&extension=ts
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 13
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:D4:F2:C0&stream=1174231&extension=ts
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:D4:F2:C0&stream=1174218&extension=ts
 
 
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 21 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:18:5F&stream=1174232&extension=ts
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:18:5F&stream=1174219&extension=ts
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 22 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:0D:87&stream=1174232&extension=ts
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:0D:87&stream=1174219&extension=ts
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 23
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:D4:F2:C0&stream=1174232&extension=ts
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:D4:F2:C0&stream=1174219&extension=ts
 
+#EXTINF:-1 group-title="📺NBA📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/PlaySports50.png",PLAY SPORTS 50
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
 
-#EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png", AIS Play Sport 55
+#EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/PlaySports55.png", AIS Play Sport 55
 https://love.6e4uqvj2z2.workers.dev/lx-origin/th-nba01_480/chunks.m3u8
 
 #EXTINF:-1 group-title="📺NBA📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png", AIS Play Sport 56
@@ -407,17 +411,13 @@ https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8 
 
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",PLAY SPORTS 48
+#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/PlaySports48.png",PLAY SPORTS 48
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
 
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",PLAY SPORTS 49
+#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/PlaySports49.png",PLAY SPORTS 49
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8
 
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",PLAY SPORTS 50
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
