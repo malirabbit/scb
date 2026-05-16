@@ -180,27 +180,6 @@ https://love.verowo7190.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
 https://love.verowo7190.workers.dev/lx-origin/sd-series_720/chunks.m3u8
 
 
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 11 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:F9:E6:3B&stream=1312002&extension=m3u8
-
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 12 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:42:32:0E&stream=1312002&extension=m3u8
-
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 13
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:32:08:0E&stream=1312002&extension=m3u8
-
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 14 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:3A:11:93&stream=1312002&extension=m3u8
-
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 15 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:51:12:5F&stream=1312002&extension=m3u8
-
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 16 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:23:7C&stream=1312002&extension=m3u8
-
-#EXTINF:-1 group-title="📺Villa&LFC📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",Villa&LFC 17 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:32:17&stream=1312002&extension=m3u8
-
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
@@ -211,6 +190,8 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
 https://dkl-1.shop/dookeela/monomax1/chunks.m3u8
 
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
+http://54.37.19.157/ais_sport1/index.m3u8
 
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
@@ -221,6 +202,9 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
 https://dkl-1.shop/dookeela/monomax2/chunks.m3u8
+
+#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
+http://54.37.19.157/ais_sport2/index.m3u8
 
 
 
