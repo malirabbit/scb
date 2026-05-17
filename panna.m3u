@@ -126,6 +126,34 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 #=========
 
+#EXTINF:-1 group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/HubPremier2.png",HUB PREMIER 4K 1
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:3C:32&stream=1314088&extension=ts
+
+#EXTINF:-1 group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/HubPremier2.png",HUB PREMIER 4K 2 
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:41:D3&stream=1314088&extension=ts
+
+#EXTINF:-1 group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/HubPremier2.png",HUB PREMIER 4K 3
+http://91.208.115.25:80/play/live.php?mac=00:1B:79:4A:26:8C&stream=1314088&extension=ts
+
+#EXTINF:-1  group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",SKY SPORT MAIN EVENT 4K 1 
+http://185.80.197.39/play/live.php?mac=00:1B:79:1C:3A:72&stream=1641636&extension=ts
+
+#EXTINF:-1  group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",SKY SPORT MAIN EVENT 4K 2
+http://185.80.197.39/play/live.php?mac=00:1B:79:45:3C:32&stream=1641636&extension=ts
+
+#EXTINF:-1  group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/sky-sports-main-event.png",SKY SPORT MAIN EVENT 4K 3
+http://185.80.197.39/play/live.php?mac=00:1B:79:49:0C:A9&stream=1641636&extension=ts
+
+#EXTINF:-1  group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/TNT_Ultimate.png",TNT Ultimate 4K 1 
+http://185.80.197.39/play/live.php?mac=00:1B:79:1C:3A:72&stream=1595637&extension=ts
+
+#EXTINF:-1  group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/TNT_Ultimate.png",TNT Ultimate  4K 2
+http://185.80.197.39/play/live.php?mac=00:1B:79:45:3C:32&stream=1595637&extension=ts
+
+#EXTINF:-1  group-title="📺4K📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/TNT_Ultimate.png",TNT Ultimate  4K 3
+http://185.80.197.39/play/live.php?mac=00:1B:79:49:0C:A9&stream=1595637&extension=ts
+
+
 
 #EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 11 
 http://185.80.197.39/play/live.php?mac=00:1B:79:1C:3A:72&stream=1032487&extension=ts
