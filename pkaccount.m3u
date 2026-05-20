@@ -125,6 +125,69 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 
 
+#======================================
+
+
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1065897&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1 ᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146122&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1 HD
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=106199&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1063488&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1 ˢᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146118&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1 ˢᴰ°
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=196473&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1 ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1063490&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 1⁴ᴷ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146126&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1065898&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2 ᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146123&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2 HD
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=106200&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1063489&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2 ˢᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146119&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2 ˢᴰ°
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=196472&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2 ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1063491&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 2⁴ᴷ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146127&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1065899&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 3 EN ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=579309&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 3 EN ᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146124&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 3 HD
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=106201&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 3 EN ˢᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146120&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 3 EN ⁴ᴷ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146128&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1065900&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 4 FR ᵁᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=579308&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 4 FR ᴴᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146125&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 4  HD
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146062&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 4 FR ˢᴰ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146121&extension=m3u8
+#EXTINF:-1 group-title=" ✪ FIFA WORLD CUP 2026",beIN Sports MAX 4 FR ⁴ᴷ
+http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=146129&extension=m3u8
+
+
+
+#=================================
 
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
