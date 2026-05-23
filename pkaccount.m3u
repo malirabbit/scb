@@ -140,11 +140,6 @@ https://raw.githubusercontent.com/malirabbit/scb/refs/heads/main/pk04.m3u8
 #=================================
 
 
-#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
-https://dkl-1.shop/dookeela/monomax1/chunks.m3u8
-
-#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
-http://54.37.19.157/ais_sport1/index.m3u8
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1776175&extension=m3u8
@@ -152,12 +147,6 @@ http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1776175&extensi
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:BF:F9:3A&stream=1776175&extension=m3u8
 
-
-#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
-https://dkl-1.shop/dookeela/monomax2/chunks.m3u8
-
-#EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
-http://54.37.19.157/ais_sport2/index.m3u8
 
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 2 
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1776176&extension=m3u8
@@ -564,7 +553,1714 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
 
 
+##Documentary
 
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-history.png",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-history_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-discovery.png",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-discovery_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",True Explore Science
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png",Animalshow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-animalshow_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",Khongdee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-khongdee_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",Samruajlok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-samrujlok_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",Thainess
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-thainess_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",Mysci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-mysci_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-asianfood.png",Asianfood 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-asianfood_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-tlc.png",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-tlc_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/hd-food.png",Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-food_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2022/RushStories.png",RushStories
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-rushstories_720/chunks.m3u8
+
+
+================
+
+
+
+##ENTERTAINMENT
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-hbo.png",HBO TH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-hbo_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-hbohits.png",HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-hbohits_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-hbosignature.png",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-hbosignature_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-hbofamily.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-hbofamily_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-cinemax.png",CINEMAX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-cinemax_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-blueant.png",Rock  Entertainment 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-blueant_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-blueantex.png",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-blueantex_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-warnertv.png",Warnertv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-warnertv_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-axn.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-axn_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",True Filmhd1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-tfilm_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Filmhd2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-tfilm2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp",True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-thaifilm_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-moviehits_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True asianmore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-asianmore_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/sd-filmasia_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-series_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/sd-celestial.png",Celestial Classic Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-celestial_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46fb6170-e599-11ed-b606-c19576cb8b29_webp_original.webp",Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-xzyte_720/chunks.m3u8
+
+
+=================
+
+##DIGITAL TV##
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch3.png",3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch5.png",5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-ch5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch7.png" ,7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-ch7_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-mcot.png",MCOT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-mcot_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-nbt.png",NBT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-nbt_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-tpbs.png",TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-tpbs_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-pptv.png",PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-amarin.png",Amarin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-amarin_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-thairath.png" ,Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-thairath_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-gmmone.png",One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-gmmone_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-mono.png",Mono29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-mono_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-workpoint.png",Workpoint
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-workpoint_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-gmmchannel.png",gmm25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-gmmchannel_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-24u.png",True4u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-24u_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-tnn24.png",Tnn16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-tnn24_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch8.png",CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-ch8_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-nation.png",Nation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-nation_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-tptv.png",TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-tptv_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-tsports.png",Tsport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-tsports_480/chunks.m3u8
+
+
+===============
+
+
+
+##KIDS##
+
+
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-boomerang.png",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-boomerang_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-cartoonnetwork.png",Cartoon Networkv th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-cartoonnetwork_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-dreamworks.png",Dreamworks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-dreamworks_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-nickelodeon_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",Nickjr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-nickjr_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/th-cartoonito_720/playlist.m3u8
+
+
+
+================
+
+
+
+##NEWS##
+
+
+
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/hd-cnn.png",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-cnn_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bbcworldnews.png",BBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bbcworldnews_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-foxnews.png",Fox News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-foxnews_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-bloomberg.png",Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-bloomberg_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-aljazeera.png",Aljazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sd-aljazeera_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",CGTN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/sd-cgtn_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",CCTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/th-ais-cctv_1080/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-skynews.png",Sky News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/sd-skynews_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-cnbc.png",CBNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/sd-cnbc_720/playlist.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-nhkworld.png",NHK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/sd-nhkworld_720/chunks.m3u8
+
+
+
+
+=======================
+
+##SPORT
+
+
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01.png", Monomax 1th
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01bkp.png", Monomax 1bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02.png", Monomax 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02bkp.png", Monomax 2bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03.png", Monomax 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03bkp.png", Monomax 3bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax04.png", Monomax 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax04bkp.png", Monomax 4bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05.png", Monomax 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05bkp.png", Monomax 5bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06.png", Monomax 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06bkp.png", Monomax 6bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07.png", Monomax 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07bkp.png", Monomax 7bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08.png", Monomax 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08bkp.png", Monomax 8bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09.png", Monomax 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09bkp.png", Monomax 9bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10.png", Monomax 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10bkp.png", Monomax 10bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/epl-3.png",epl-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx/epl-3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/epl-4.png",epl-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx/epl-4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/epl-5.png",epl-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx/epl-5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True Sport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",True Sport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sport5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",bein4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",bein5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",bein6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein6_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",bein7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein7_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",bein8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein8_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",bein9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein9_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",bein10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/epl-bein10_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-tennis_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp",nba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nba_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp",nfl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport1.png",SuperSports1 Laliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport2.png",SuperSports2 Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport3.png",SuperSports3 Blitz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport4.png",SuperSports4 Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport5.png" ,SuperSports5 Variety 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport6.png",SuperSports6 Variety 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport6_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport7.png" ,SuperSports7 Motor Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport7_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport8.png" ,SuperSports8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport8_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport9.png",SuperSports9 Variety 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport9_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport10.png",SuperSports10 Variety 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport10_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport11.png",SuperSports11 Rugby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport11_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport12.png",SuperSports12 Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport12_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport13.png" ,SuperSports13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport13_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport14.png",SuperSports14 PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport14_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport15.png" ,SuperSports15 Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport15_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport16.png",SuperSports16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport16_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/af-supersport17.png",SuperSports17 Maximo1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/af-supersport17_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/al-supersports1.png",al-supersports1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/al-supersports1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/al-supersports2.png",al-supersports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/al-supersports2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/al-supersports3.png",al-supersports3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/al-supersports3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/al-supersports4.png",al-supersports4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/al-supersports4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox501.png",au-fox501
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox501_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox502.png",au-fox502
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox502_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox503.png",au-fox503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox503_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox504.png",au-fox504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox504_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox505.png",au-fox505
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox505_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox506.png",au-fox506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox506_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/au-fox507.png",au-fox507
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-fox507_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/au-racing.png",au-racing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-racing_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/au-skyracing1.png",au-skyracing1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-skyracing1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/au-skyracing2.png",au-skyracing2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/au-skyracing2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/at-skysport1.png",at-skysport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/at-skysport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/at-skysport2.png",at-skysport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/at-skysport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/at-skysport3.png",at-skysport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/at-skysport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/at-skysport4.png",at-skysport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/at-skysport4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/be-elevenpro1.png",be-elevenpro1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/be-elevenpro1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/be-playsports1.png",be-playsports1.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/be-playsports1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/be-playsports2.png",be-playsports2.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/be-playsports2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/be-vooworld1.png",be-vooworld1.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/be-vooworld1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/be-vooworld2.png",be-vooworld2.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/be-vooworld2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/be-vooworld3.png",be-vooworld3.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/be-vooworld3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/ca-sportsnet360.png",ca-sportsnet360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-sportsnet360_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/ca-sportsnetontario.png",ca-sportsnetontario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-sportsnetontario_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn1.png",ca-tsn1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn2.png",ca-tsn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn3.png",ca-tsn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn4.png",ca-tsn4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ca-tsn5.png",ca-tsn5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tsn5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ca-tvasports.png",ca-tvasports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ca-tvasports_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/co-winsports.png",co-winsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/co-winsports_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/rs-sportklub1.png",rs-sportklub1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/rs-sportklub1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/rs-sportklub2.png",rs-sportklub2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/rs-sportklub2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/rs-sportklub3.png",rs-sportklub3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/rs-sportklub3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/cz-ctsport.png",cz-ctsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/cz-ctsport_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/cz-novasport1.png",cz-novasport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/cz-novasport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/cz-novasport2.png",cz-novasport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/cz-novasport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/cz-novasport3.png",cz-novasport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/cz-novasport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/cz-novasport4.png",cz-novasport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/cz-novasport4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/cz-novasport5.png",cz-novasport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/cz-novasport5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-bein1hd.png",fr-bein1hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-bein1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-bein2hd.png",fr-bein2hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-bein2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-bein3hd.png",fr-bein3hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-bein3hd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-canalsport.png",fr-canalsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-canalsport_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-eurosport.png",fr-eurosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-eurosport_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-eurosport2.png",fr-eurosport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-eurosport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-infosport.png",fr-infosport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-infosport_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-multisport1.png",fr-multisport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-multisport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-rmcsport1.png",fr-rmcsport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-rmcsport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-rmcsport2.png",fr-rmcsport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-rmcsport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/fr-rmcsport3.png",fr-rmcsport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/fr-rmcsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-daznlive2.png",de-daznlive2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-daznlive2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-dfbplay.png",de-dfbplay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-dfbplay_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-skybundesliga.png",de-skybundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-skybundesliga_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-skysport-epl.png",de-skysport-epl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-skysport-epl_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-skysport1.png",de-skysport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-skysport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-sport1.png",de-sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-sport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-skysport-topevent.png",de-skysport-topevent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-skysport-topevent_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/de-sportdigital.png",de-sportdigital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/de-sportdigital_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/in-ten1.png",in-ten1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/in-ten1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/in-ten2.png",in-ten2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/in-ten2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/in-ten3.png",in-ten3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/in-ten3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/jp-jsports3.png",jp-jsports3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/jp-jsports3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/la-tycsports.png",la-tycsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/la-tycsports_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-cricket.png",Astro cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-cricket_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-arena1.png",my-arena1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-arena1_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-arena2.png",my-arena2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-arena2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-arenabola1.png",my-arenabola1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-arenabola1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-arenabola2.png",my-arenabola2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-arenabola2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-badminton1.png",my-astro-badminton1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-badminton1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-badminton2.png",my-astro-badminton2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-badminton2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-epl1.png",my-astro-epl1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-epl1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-epl2.png",my-astro-epl2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-epl2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-football.png",my-astro-football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-football_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-grandstand.png",my-astro-grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-grandstand_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-sportsplus.png",my-astro-sportsplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-astro-sportsplus_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-bein1.png",my-bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-bein1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-bein2.png",my-bein2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-bein2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-bein3.png",my-bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-bein3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-nbcgolf.png",my-nbcgolf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-nbcgolf_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-premiersports.png",my-premiersports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-premiersports_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-spotv1.png",my-spotv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-spotv1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-spotv2.png",my-spotv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-spotv2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/my-wsport.png",my-wsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/my-wsport_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn1.png",nl-espn1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-espn1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn2.png",nl-espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-espn2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn3.png",nl-espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-espn3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn4.png",nl-espn4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-espn4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn5.png",nl-espn5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-espn5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn5.png",nl-espn6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-espn6_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport1.png",nl-ziggosport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-ziggosport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport2.png",nl-ziggosport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-ziggosport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport3.png",nl-ziggosport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-ziggosport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport4.png",nl-ziggosport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-ziggosport4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport5.png",nl-ziggosport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-ziggosport5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport6.png",nl-ziggosport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nl-ziggosport6_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport1.png",nz-skysport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport2.png",nz-skysport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport3.png",nz-skysport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport4.png",nz-skysport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport5.png",nz-skysport5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport6.png",nz-skysport6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport6_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport7.png",nz-skysport7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport7_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport8.png",nz-skysport8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport8_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/nz-skysport9.png",nz-skysport9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/nz-skysport9_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/no-vsport1.png",no-vsport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/no-vsport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/no-vsport2.png",no-vsport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/no-vsport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/no-vsport3.png",no-vsport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/no-vsport3_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-canalsport1.png",pl-canalsport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-canalsport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-canalsport2.png",pl-canalsport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-canalsport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-canalsport3.png",pl-canalsport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-canalsport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-canalsport4.png",pl-canalsport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-canalsport4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsport.png",pl-polsatsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsport_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportextra.png",pl-polsatsportextra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportextra_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportfight.png",pl-polsatsportfight
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportfight_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportnews.png",pl-polsatsportnews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportnews_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportpremium1.png",pl-polsatsportpremium1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportpremium1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportpremium2.png",pl-polsatsportpremium2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportpremium2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportpremium3.png",pl-polsatsportpremium3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportpremium3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportpremium4.png",pl-polsatsportpremium4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportpremium4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportpremium5.png",pl-polsatsportpremium5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportpremium5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-polsatsportpremium6.png",pl-polsatsportpremium6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-polsatsportpremium6_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pl-tvpsport.png",pl-tvpsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pl-tvpsport_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv1.png",pt-sporttv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv2.png",pt-sporttv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv3.png",pt-sporttv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv4.png",pt-sporttv4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv5.png",pt-sporttv5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/pt-sporttv5_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein1.png",bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein2.png",bein2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein3.png" ,bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein4.png" ,bein4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein5.png" ,bein5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein5_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein6.png",bein6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein6_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein7.png" ,bein7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein7_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein8.png",bein8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein8_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein9.png",bein9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein9_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein10.png",bein10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein10_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein11.png",bein11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein11_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bein12.png",bein12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/hd-bein12_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ro-digisport1.png",ro-digisport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ro-digisport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ro-digisport2.png",ro-digisport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ro-digisport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ro-digisport3.png",ro-digisport3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ro-digisport3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ro-digisport4.png",ro-digisport4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ro-digisport4_720/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-bein1.png",sg-bein1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-bein1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-bein2.png",sg-bein2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-bein2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-bein3.png",sg-bein3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-bein3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-eurosport1.png",sg-eurosport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-eurosport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport01.png",sg-hubsport01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubsport01_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport02.png",sg-hubsport02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubsport02_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport03.png",sg-hubsport03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubsport03_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier01.png",sg-hubpremier01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubpremier01_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier02.png",sg-hubpremier02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubpremier02_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier03.png",sg-hubpremier03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubpremier03_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier04.png",sg-hubpremier04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubpremier04_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png",sg-hubpremier05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sg-hubpremier05_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sk-arena1.png",sk-arena1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/sk-arena1_480/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/es-miteleplus.png",es-miteleplus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/es-miteleplus_480/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/se-cmoresport.png",se-cmoresport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/se-cmoresport_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/se-viasatsport-premium.png",se-viasatsport-premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/se-viasatsport-premium_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ch-bluesport1.png",ch-bluesport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ch-bluesport1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ch-bluesport2.png",ch-bluesport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ch-bluesport2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ch-mysports1.png",ch-mysports1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ch-mysports1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ch-mysports2.png",ch-mysports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ch-mysports2_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/tr-trtspor.png",tr-trtspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/tr-trtspor_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ad-abudhabisports1.png",ad-abudhabisports1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ad-abudhabisports1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ad-abudhabisports2.png",ad-abudhabisports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ad-abudhabisports2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ad-abudhabisports3.png",ad-abudhabisports3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ad-abudhabisports3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ad-abudhabisports4.png",ad-abudhabisports4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/ad-abudhabisports4_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-golf01.png",th-golf01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/th-golf01_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-golf02.png",th-golf02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/th-golf02_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-golf03.png",th-golf03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/th-golf03_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-golf04.png",th-golf04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/th-golf04_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-golf05.png",th-golf05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/th-golf05_720/chunks.m3u8
+
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-attheraces.png",uk-attheraces
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/uk-attheraces_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport1hd.png",uk-btsport1hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/uk-btsport1hd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png",uk-btsport1hdbkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-btsport1hdbkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport2hd.png",uk-btsport2hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/uk-btsport2hd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png",uk-btsport2hdbkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-btsport2hdbkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport3hd.png",uk-btsport3hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/uk-btsport3hd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png",uk-btsport3hdbkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-btsport3hdbkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-espn.png",uk-espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-espn_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-premiersports.png",uk-premiersports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-premiersports_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-premiersports2.png",uk-premiersports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-premiersports2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-action.png",uk-skysports-action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-action_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-arena.png",uk-skysports-arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-arena_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-cricket.png",uk-skysports-cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-cricket_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-epl.png",uk-skysports-epl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-epl_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-f1.png",uk-skysports-f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-f1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-football.png",uk-skysports-football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-football_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-golf.png",uk-skysports-golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-golf_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png",uk-skysports-mainevent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-mainevent_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-mix.png",uk-skysports-mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-mix_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-news.png",uk-skysports-news
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-news_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-plus.png",uk-skysports-plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports-plus_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports1bkp.png",uk-skysports1bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports1bkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports2bkp.png",uk-skysports2bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports2bkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports3bkp.png",uk-skysports3bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports3bkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports4bkp.png",uk-skysports4bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports4bkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports5bkp.png",uk-skysports5bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysports5bkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png",uk-skysportsf1bkp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skysportsf1bkp_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-lfctv.png",uk-lfctv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-lfctv_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-mutv.png",uk-mutv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-mutv_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-bein.png",us-bein
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-bein_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-big10.png",us-big10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-big10_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-cbssn.png",us-cbssn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-cbssn_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-dazn01.png",us-dazn01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-dazn01_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-dazn02.png",us-dazn02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-dazn02_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-eleven.png",us-eleven
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/lx-origin/us-eleven_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-espn-deportes.png",us-espn-deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-espn-deportes_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-espn1.png",us-espn1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-espn1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-espn2.png",us-espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-espn2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-espn3.png",us-espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-espn3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports1.png",us-foxsports1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-foxsports1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-foxsports2.png",us-foxsports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-foxsports2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-fubo.png",us-fubo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-fubo_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-mlb.png",us-mlb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-mlb_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nba.png",us-nba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nba_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nbcgolf.png",us-nbcgolf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nbcgolf_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nbcsport-boston.png",us-nbcsport-boston
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nbcsport-boston_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nbcsport-california.png",us-nbcsport-california
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nbcsport-california_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nbcsport-chicago.png",us-nbcsport-chicago
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nbcsport-chicago_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nbcsports.png",us-nbcsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nbcsports_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nfl.png",us-nfl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-nhl.png",us-nhl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-nhl_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-tudn.png",us-tudn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-tudn_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-willowcrickethd.png",us-willowcrickethd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-willowcrickethd_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/us-wwe.png",us-wwe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/us-wwe_720/chunks.m3u8
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-vnl1.png",hd-vnl1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-vnl1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-vnl2.png",hd-vnl2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-vnl2_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-vnl3.png",hd-vnl3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-vnl3_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-vnl4.png",hd-vnl4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/hd-vnl4_720/chunks.m3u8
+
+
+
+
+
+
+=========
+##OTHER##
+
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-bbc1hd.png",uk-bbc1hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-bbc1hd_720/playlist.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-bbc2hd.png",uk-bbc2hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-bbc2hd_720/playlist.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-bbc3hd.png",uk-bbc3hd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-bbc3hd_720/playlist.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-channel4hd.png",uk-channel4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-channel4hd_720/playlist.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-more4.png",uk-more4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-more4_720/playlist.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-e4.png",e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-e4_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-5star.png",5 Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-5star_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-usa.png",5 USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-usa_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-citv.png",CITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-citv_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-alibi.png",Alibi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-alibi_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-challenge.png",Challenge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-challenge_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-cbsaction.png",CBS Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-cbsaction_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-cbsreality.png",CBS Reality
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-cbsreality_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-cbsdrama.png",CBS Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-cbsdrama_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-drama.png",Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-drama_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-dave.png",Dave
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-dave_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-foodnetwork.png",Food Network UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-foodnetwork_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-gold.png",Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-gold_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-sky1.png",Sky 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-sky1_720/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skyatlantic.png",Sky Atlantic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skyatlantic_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/uk-skypremiere.png",Sky Movies Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/uk-skypremiere_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ie-tv3.png",TV3 Uk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/ie-tv3_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ie-3e.png",3e Uk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/ie-3e_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ie-rte1.png",RTE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/ie-rte1_480/chunks.m3u8
+#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/ie-rte2.png",RTE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-referrer=https://dooball66.com/
+https://love.diqanysi.workers.dev/vx-origin/ie-rte2_480/chunks.m3u8
 
 
 
