@@ -2,6 +2,8 @@
 
 
 
+
+
 #EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" ,CH3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://ch3plus.com/
@@ -20,15 +22,28 @@ https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chu
 #EXTINF:-1  group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" ,GMM 25 FHD
 https://love.diqanysi.workers.dev/lx-origin/sd-gmmchannel_480/chunks.m3u8
 
+#EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" ,MONO29 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-referrer=https://balldoogu5.com/
+https://ww.dooball350a.com/live/mono29/chunks.m3u8
+
+#EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" ,MONO29 3bb
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+
 #EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" ,MONO29 FHD monomax ภาษาไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTVLCOPT:http-referrer=https://www.monomax.me/
-https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
+#https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" ,MONO29 FHD monomax Soundtract
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://www.monomax.me/
-https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+#https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-1 group-title="📺Digital TV📺" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" ,ONE31 
 https://love.diqanysi.workers.dev/lx-origin/hd-gmmone_720/chunks.m3u8
@@ -128,19 +143,6 @@ https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #======================================
 
 
-#EXTINF:-1 group-title="📺WORLD CUP 2026📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg",beIN MAX 1
-https://raw.githubusercontent.com/malirabbit/scb/refs/heads/main/pk01.m3u8
-#EXTINF:-1 group-title="📺WORLD CUP 2026📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg",beIN MAX 2
-https://raw.githubusercontent.com/malirabbit/scb/refs/heads/main/pk02.m3u8
-#EXTINF:-1 group-title="📺WORLD CUP 2026📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg",beIN MAX 3
-https://raw.githubusercontent.com/malirabbit/scb/refs/heads/main/pk03.m3u8
-#EXTINF:-1 group-title="📺WORLD CUP 2026📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/fifa.jpg",beIN MAX 4
-https://raw.githubusercontent.com/malirabbit/scb/refs/heads/main/pk04.m3u8
-
-#=================================
-
-
-
 #EXTINF:-1 group-title="📺MONOMAX📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/monomax.png", monomax 1 
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:D8:6A:A9&stream=1776175&extension=m3u8
 
@@ -158,723 +160,58 @@ http://31.57.111.9:80/play/live.php?mac=00:1A:79:BF:F9:3A&stream=1776176&extensi
 http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1660492&extension=m3u8
 
 
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 11 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032487&extension=m3u8
 
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 12
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032487&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 13
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032487&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 14
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032487&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 15
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032487&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 16
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032487&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_110_80", NOW PREMIER 17
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032487&extension=m3u8
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 21 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032486&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 22
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032486&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 23
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032486&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 24
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032486&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 25
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032486&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 26
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032486&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_110_80", NOW PREMIER 27
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032486&extension=m3u8
-
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 31 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032485&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 32
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032485&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 33
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032485&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 34
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032485&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 35
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032485&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 36
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032485&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_110_80", NOW PREMIER 37
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032485&extension=m3u8
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 11 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032529&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 12
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032529&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 13
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032529&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 14
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032529&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 15
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032529&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 16
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032529&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", HUB PREMIER 17
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032529&extension=m3u8
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 21 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032528&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 22
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032528&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 23
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032528&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 24
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032528&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 25
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032528&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 26
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032528&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", HUB PREMIER 27
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032528&extension=m3u8
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 31 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032527&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 32
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032527&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 33
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032527&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 34
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032527&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 35
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032527&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 36
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032527&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", HUB PREMIER 37
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032527&extension=m3u8
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 41 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032526&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 42
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032526&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 43
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032526&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 44
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032526&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 45
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032526&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 46
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032526&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", HUB PREMIER 47
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032526&extension=m3u8
-
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 51 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1032525&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 52
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1032525&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 53
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1032525&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 54
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1032525&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 55
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1032525&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 56
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1032525&extension=m3u8
-
-#EXTINF:-1  group-title="📺บอลอังกฤษ📺" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubpremier05.png", HUB PREMIER 57
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1032525&extension=m3u8
-
-
-
-#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001366&extension=ts
-#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 1 FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001365&extension=ts
-#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 2 FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001364&extension=ts
-#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 3 FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001363&extension=ts
-#EXTINF:-1 group-title="📺บอลอังกฤษ📺" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/v-sport-premier-league.png",V SPORT PL 4 FHD
-http://185.80.197.39:80/play/live.php?mac=00:1B:79:4D:06:2A&stream=1001362&extension=ts
-
-
-
-
-#=========
-
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 11 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1348093&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 12
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1348093&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 13
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1348093&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 14
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1348093&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 15
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1348093&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 16
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1348093&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 17
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1348093&extension=m3u8
-
-
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 21 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 22
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 23
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 24
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 25
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 26
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein 27
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1348102&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 31 
-http://185.80.197.39/play/live.php?mac=00:1B:79:41:29:4F&stream=1348103&extension=m3u8
-
-
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 32
-http://185.80.197.39/play/live.php?mac=00:1B:79:F9:D9:81&stream=1348103&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 33
-http://185.80.197.39/play/live.php?mac=00:1B:79:17:B0:E1&stream=1348103&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 34
-http://185.80.197.39/play/live.php?mac=00:1B:79:4D:06:2A&stream=1348103&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 35
-http://185.80.197.39/play/live.php?mac=00:1B:79:93:C8:1A&stream=1348103&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 36
-http://185.80.197.39/play/live.php?mac=00:1B:79:52:A5:4C&stream=1348103&extension=m3u8
-
-#EXTINF:-1  group-title="📺bein sport📺" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein 37
-http://185.80.197.39/play/live.php?mac=00:1B:79:47:16:0A&stream=1348103&extension=m3u8
-
-
-#=========
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 11 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:F9:E6:3B&stream=1174218&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 12 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:42:32:0E&stream=1174218&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 13
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:32:08:0E&stream=1174218&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 14 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:3A:11:93&stream=1174218&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 15 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:51:12:5F&stream=1174218&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 16 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:23:7C&stream=1174218&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-1-uk.png",TNT Sport 17 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:32:17&stream=1174218&extension=m3u8
-
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 21 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:F9:E6:3B&stream=1174219&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 22 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:42:32:0E&stream=1174219&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 23
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:32:08:0E&stream=1174219&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 24 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:3A:11:93&stream=1174219&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 25 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:51:12:5F&stream=1174219&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 26 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:23:7C&stream=1174219&extension=m3u8
-
-#EXTINF:-1 group-title="📺TNT Sport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/tnt-sports-2-uk.png",TNT Sport 27 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:32:17&stream=1174219&extension=m3u8
-
-
-
-#=========
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 11 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:F9:E6:3B&stream=237604&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 12 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:42:32:0E&stream=237604&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 13
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:32:08:0E&stream=237604&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 14 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:3A:11:93&stream=237604&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 15 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:51:12:5F&stream=237604&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 16 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:23:7C&stream=237604&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-1.png",Eurosport 17 
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:32:17&stream=237604&extension=m3u8
-
-
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 21
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:F9:E6:3B&stream=237605&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 22
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:42:32:0E&stream=237605&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 23
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:32:08:0E&stream=237605&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 24
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:3A:11:93&stream=237605&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 25
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:51:12:5F&stream=237605&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 26
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:47:23:7C&stream=237605&extension=m3u8
-
-#EXTINF:-1 group-title="📺Eurosport📺" tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/eurosport-2.png",Eurosport 27
-http://91.208.115.25:80/play/live.php?mac=00:1B:79:45:32:17&stream=237605&extension=m3u8
-
-
-
-
-
-#=========
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 1
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 2
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 3
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 4
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 5
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 6
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 7
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",AIS Play Sports 8
-#http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8 
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",PLAY SPORTS 48
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",PLAY SPORTS 49
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8
-
-#EXTINF:-1 group-title="📺AIS Play Sports📺"  tvg-logo="https://raw.githubusercontent.com/jasminrabbit/logo/refs/heads/main/playsport.png",PLAY SPORTS 50
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
-
-
-##KIDS##
-
-
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-boomerang.png",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-boomerang_720/playlist.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-cartoonnetwork.png",Cartoon Networkv th
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-cartoonnetwork_720/playlist.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-dreamworks.png",Dreamworks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/hd-dreamworks_720/playlist.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-nickelodeon_720/playlist.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",Nickjr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-nickjr_720/playlist.m3u8
-
-
-
-================
-
-##NEWS##
-
-
-
-#EXTINF:-1 group-title="📺dooball66📺""  tvg-logo="https://api.bananamuffin.org/images/png/hd-cnn.png",CNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/hd-cnn_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/hd-bbcworldnews.png",BBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/hd-bbcworldnews_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-foxnews.png",Fox News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-foxnews_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-bloomberg.png",Bloomberg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-bloomberg_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-aljazeera.png",Aljazeera
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/sd-aljazeera_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",CGTN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/sd-cgtn_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png",CCTV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/th-ais-cctv_1080/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-skynews.png",Sky News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/sd-skynews_720/playlist.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-cnbc.png",CBNC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/sd-cnbc_720/playlist.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/sd-nhkworld.png",NHK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/sd-nhkworld_720/chunks.m3u8
-
-
-
-
-=======================dooball66
-
-
-
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01.png", Monomax 1th
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01bkp.png", Monomax 1bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02.png", Monomax 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02bkp.png", Monomax 2bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03.png", Monomax 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03bkp.png", Monomax 3bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax04.png", Monomax 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax04bkp.png", Monomax 4bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05.png", Monomax 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax05_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05bkp.png", Monomax 5bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06.png", Monomax 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax06_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06bkp.png", Monomax 6bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax06bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07.png", Monomax 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax07_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07bkp.png", Monomax 7bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08.png", Monomax 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax08_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08bkp.png", Monomax 8bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09.png", Monomax 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax09_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09bkp.png", Monomax 9bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10.png", Monomax 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax10_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10bkp.png", Monomax 10bkp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/th-monomax09bkp_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/epl-3.png",epl-3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx/epl-3_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/epl-4.png",epl-4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx/epl-4_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://api.bananacake.org/images/png/epl-5.png",epl-5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx/epl-5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/hd-tsport1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sport2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/hd-tsport2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True Sport3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",True Sport4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sport5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/sd-tsport5_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sport7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/sd-tsport7_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/hd-spotv_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",SPOTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/hd-spotv2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",bein2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/epl-bein2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",bein3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",bein4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein4_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",bein5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein5_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",bein6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein6_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",bein7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein7_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",bein8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein8_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",bein9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein9_720/chunks.m3u8
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",bein10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/epl-bein10_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp",tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/hd-tennis_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/lx-origin/hd-golf2_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp",nba
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/us-nba_720/chunks.m3u8
-
-#EXTINF:-1 group-title="📺dooball66📺"" tvg-logo="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.webp",nfl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTVLCOPT:http-referrer=https://dooball66.com/
-https://love.diqanysi.workers.dev/vx-origin/us-nfl_720/chunks.m3u8
-
+#=================================================
+
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="WORLD CUP 2026",CA| TSN 1 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1239048&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="WORLD CUP 2026",CA| TSN 2 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1239038&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="WORLD CUP 2026",CA| TSN 3 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1239030&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="WORLD CUP 2026",CA| TSN 4 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1239023&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="WORLD CUP 2026",CA| TSN 5 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1239014&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="WORLD CUP 2026",UK| BBC 1 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=162120&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="WORLD CUP 2026",UK| BBC 2 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=162121&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="WORLD CUP 2026",UK| ITV 1 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=162105&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="WORLD CUP 2026",UK| ITV 4 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=162129&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45571.png" group-title="WORLD CUP 2026",US| FOX SPORTS 1 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=325017&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45570.png" group-title="WORLD CUP 2026",US| FOX SPORTS 2 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=429587&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv1.png" group-title="WORLD CUP 2026",PT| SPORT TV 1 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1688741&extension=m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/pt-sporttv2.png" group-title="WORLD CUP 2026",PT| SPORT TV 2 HD
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1688739&extension=m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460854&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460853&extension=m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460852&extension=m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/rs-arena1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460851&extension=m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/rs-arena2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460850&extension=m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/rs-arena3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460849&extension=m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/rs-arena4.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460848&extension=m3u8
+#EXTINF:-1 tvg-logo="https://api.bananamuffin.org/images/png/rs-arena5.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460847&extension=m3u8
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport6.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
+http://204.52.191.253:80/play/live.php?mac=00:1A:79:5E:4C:8D&stream=1460846&extension=m3u8
+
+#=====================================
